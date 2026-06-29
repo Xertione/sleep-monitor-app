@@ -1,0 +1,17 @@
+{
+  "name": "sleepmonitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "alibabacloud-iot-device-sdk": "^1.2.8",
+    "mqtt": "^4.0.1"
+  }
+}

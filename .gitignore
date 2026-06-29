@@ -1,0 +1,23 @@
+# 依赖
+node_modules/
+
+# 构建产物
+unpackage/
+*.apk
+
+# IDE
+.hbuilderx/
+.vscode/
+
+# 敏感配置（含服务器地址等，每人独立配置）
+utils/config.js
+
+# 签名文件（含私钥）
+*.keystore
+
+# 环境变量
+.env
+
+# 系统文件
+.DS_Store
+Thumbs.db
